@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="Hansa Gusaiwal developer terminal banner">
+<rect width="1100" height="320" rx="20" fill="#0d1117"/>
+<rect x="25" y="22" width="1050" height="276" rx="14" fill="#101820" stroke="#30363d" stroke-width="2"/>
+<path d="M25 64h1050" stroke="#30363d"/>
+<circle cx="53" cy="44" r="7" fill="#ff5f57"/><circle cx="77" cy="44" r="7" fill="#febc2e"/><circle cx="101" cy="44" r="7" fill="#28c840"/>
+<g font-family="Consolas,Monaco,monospace"><text x="430" y="49" fill="#8b949e" font-size="17">hansa@github: ~/portfolio</text><text x="60" y="112" fill="#7ee787" font-size="24">➜  ~  whoami</text><text x="60" y="182" fill="#f0f6fc" font-size="51" font-weight="700">Hansa Gusaiwal</text><text x="62" y="231" fill="#79c0ff" font-size="24">Python  •  NLP  •  AI Applications</text><text x="62" y="270" fill="#8b949e" font-size="18">$ building useful software, one commit at a time_</text></g>
+<path d="M986 110l-24 24 24 24M1008 158h32" stroke="#3fb950" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
